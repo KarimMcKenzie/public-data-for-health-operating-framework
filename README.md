@@ -189,7 +189,67 @@ That makes these different questions:
 - **Did we create or preserve a useful resource?**
 - **Are researchers using it and learning from it?**
 - **What does that evidence change about the next decision?**
+---
 
-The further measurement moves from delivery toward longer-term scientific and human benefit, the harder it becomes to attribute outcomes to any single investment. The goal should therefore be to build a credible path from **execution to utility to learning**, rather than treating one downstream metric as proof of impact.
+## From Project Evidence to Portfolio Learning
 
-> **Output is not the same as utility, and utility is not the same as long-term impact.**
+The value of an individual investment extends beyond the resource it creates.
+
+Each project can also generate evidence about what makes scientific data infrastructure more useful: which institutional dependencies matter most, where access breaks down, which forms of documentation support reuse, how multi-partner systems behave, and what stewardship models appear durable.
+
+That creates a broader learning loop:
+
+- **Project evidence** reveals what happened in execution and use.
+- **Portfolio learning** identifies patterns across investments.
+- **Updated judgment** changes how future opportunities are evaluated and supported.
+- **Future investments** create new evidence that can refine the operating model again.
+
+The goal is not to eliminate uncertainty or force diverse scientific programs into a uniform process. It is to build an operating system capable of **learning under uncertainty**.
+
+> **A strong portfolio does not only fund individual projects. It gets better at making the next decision.**
+
+---
+
+## Methodology
+
+This is an independent operating analysis developed from publicly available information about OpenAI Foundation's Public Data for Health initiative and related Foundation programs.
+
+The analysis begins with the Foundation's stated scientific hypotheses — **Connected, Scarce, and Direct data** — and asks what additional operating questions emerge once a scientifically valuable opportunity has been identified.
+
+The operating lens, pressure tests, sequencing principles, measurement structure, and portfolio implications presented here are my own analysis. They explore the institutional and operational layer between scientific opportunity, philanthropic investment, execution, responsible accessibility, scientific use, and long-term stewardship.
+
+This project does **not** presume knowledge of OpenAI Foundation's internal processes, grant structures, decision rights, or program design.
+
+---
+
+## Sources
+
+### Primary Program Source
+
+- [Public Data for Health](https://openaifoundation.org/news/public-data-for-health) — the primary source for the Public Data for Health initiative, including the **Connected, Scarce, and Direct** data hypotheses and the OpenADMET, CTD Commons, and UNC Initiative for Generative Immunotherapy examples used in this analysis.
+
+### Related OpenAI Foundation Materials
+
+The broader operating perspective was also informed by the Foundation's public writing on scientific learning, accessibility, shared infrastructure, institutional capacity, portfolio design, and durable impact:
+
+- [AI for Alzheimer's](https://openaifoundation.org/news/ai-for-alzheimers)
+- [AI for Civil Society and Philanthropy](https://openaifoundation.org/news/civil-society-and-philanthropy)
+- [Broadening the benefits of AI, starting with voice](https://openaifoundation.org/news/broadening-the-benefits-of-ai-starting-with-voice)
+- [AI forecasting for smallholder farmers](https://openaifoundation.org/news/ai-forecasting-for-smallholder-farmers)
+- [Economic Futures in the Age of AI](https://openaifoundation.org/news/economic-futures-in-the-age-of-ai)
+- [Update on the OpenAI Foundation](https://openaifoundation.org/news/update-on-the-openai-foundation)
+- [Come build the OpenAI Foundation](https://openaifoundation.org/news/come-build-the-openai-foundation)
+
+> **Source note:** Descriptions of OpenAI Foundation programs and initiatives are derived from the Foundation materials above. The operating frameworks, pressure tests, sequencing principles, measurement structure, and portfolio implications presented in this project are independent analysis.
+
+---
+
+## About This Project
+
+**From Scientific Opportunity to Scientific Public Good** is part of an independent portfolio exploring the operating layer between ambitious scientific ideas and successful execution — including funding, institutions, partnerships, governance, research infrastructure, and scalable program operations.
+
+📄 **[Read the two-page strategy memo](From_Scientific_Opportunity_to_Scientific_Public_Good.pdf)**
+
+This project was not commissioned by, affiliated with, or endorsed by OpenAI or the OpenAI Foundation.
+
+
