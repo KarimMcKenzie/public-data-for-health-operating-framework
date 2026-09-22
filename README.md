@@ -91,3 +91,73 @@ The same logic applies to capital.
 Where appropriate, commitments can remain responsive to evidence as decision-relevant dependencies mature. An unresolved issue does not necessarily mean an entire project must stop; it may mean that a particular activity or later commitment should wait while independent work proceeds.
 
 **The objective is neither maximum speed nor maximum control. It is appropriate sequencing.**
+---
+
+## Pressure-Testing the Lens
+
+A useful operating framework should not produce the same answer for every project. Different scientific opportunities create different dependencies, sequencing decisions, and operating risks.
+
+The OpenAI Foundation's initial Public Data for Health portfolio provides three useful examples.
+
+### CTD Commons | Scarce Data
+
+CTD Commons is intended to preserve and publish regulatory knowledge from failed or shelved drug-development programs, including materials that could otherwise disappear when companies shut down.
+
+**Operating tension:** The scientific value may be time-sensitive. Waiting for every downstream access or use question to be resolved could mean losing information that cannot later be recreated.
+
+**Operating response:**
+
+- Separate **preservation** from **release**.
+- Identify what must happen immediately to prevent irreversible loss.
+- Surface rights, confidentiality, access, and stewardship questions that may affect later use.
+- Resolve those questions before the activities that depend on them rather than automatically delaying preservation.
+
+> **Urgency can change sequencing without eliminating responsible governance.**
+
+---
+
+### UNC Initiative for Generative Immunotherapy | Direct Data
+
+The UNC initiative is developing multimodal data intended to support personalized cancer-vaccine research, including measurements involving tumors, proteins, T-cell responses, and associated clinical information.
+
+**Operating tension:** The scientific value depends not only on generating high-quality data, but on whether that data can ultimately be responsibly understood, accessed, and used beyond the originating research team.
+
+**Operating response:**
+
+- Identify applicable participant-protection, consent, privacy, data-rights, and institutional requirements early.
+- Determine which decisions affect data generation, which affect future sharing or access, and when each becomes decision-relevant.
+- Bring the appropriate scientific, IRB, legal, privacy, data-governance, and institutional owners into the process where their expertise is required.
+- Design documentation, access, and stewardship with downstream scientific use in mind rather than treating sharing as an end-of-project task.
+
+> **Not everything must be resolved before a project begins. But anything essential to its ultimate purpose should be identified early enough that it does not become an irreversible constraint later.**
+
+---
+
+### OpenADMET | Connected Data
+
+OpenADMET is developing open, machine-learning-ready datasets and benchmarks for predicting small-molecule ADMET properties, connecting different measurements and contributors into a resource intended to improve model development and evaluation.
+
+**Operating tension:** The value of connected data depends on the system working across contributors. Individual institutions can deliver their own work successfully while the combined resource still fails to achieve its intended value.
+
+**Operating response:**
+
+- Map dependencies across contributors, measurements, standards, benchmarks, and release plans.
+- Identify where one partner's output becomes another partner's input.
+- Define enough shared expectations around quality, documentation, interoperability, and timing to support the combined resource.
+- Measure both individual delivery and whether the connected system is producing something researchers can actually use.
+
+> **Individual partner success does not necessarily equal system success.**
+
+---
+
+## What the Pressure Tests Reveal
+
+The operating model remains consistent, but its application changes with the underlying opportunity:
+
+| Project | Scientific Hypothesis | Primary Operating Challenge | Sequencing Principle |
+|---|---|---|---|
+| **CTD Commons** | Scarce | Preserve information before irreversible loss | Preserve first where urgency requires it; resolve downstream access before release |
+| **UNC Generative Immunotherapy** | Direct | Align human-data considerations with intended downstream scientific use | Surface future-use dependencies early; resolve them when they become decision-relevant |
+| **OpenADMET** | Connected | Coordinate interdependent contributors into a usable combined resource | Manage the system, not only the individual deliverables |
+
+The purpose of the framework is therefore not to standardize ambitious science. It is to create enough operating structure to **recognize what kind of problem is present, sequence decisions appropriately, and preserve room for scientific uncertainty while maintaining execution discipline.**
