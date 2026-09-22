@@ -161,3 +161,35 @@ The operating model remains consistent, but its application changes with the und
 | **OpenADMET** | Connected | Coordinate interdependent contributors into a usable combined resource | Manage the system, not only the individual deliverables |
 
 The purpose of the framework is therefore not to standardize ambitious science. It is to create enough operating structure to **recognize what kind of problem is present, sequence decisions appropriately, and preserve room for scientific uncertainty while maintaining execution discipline.**
+---
+
+## Measuring the Path to Value
+
+For scientific data infrastructure, completing the funded work and creating a dataset are important achievements — but they are not the same as demonstrating that the resource is producing scientific value.
+
+I would look at progress through three distinct lenses:
+
+| Measurement Lens | Core Question | Example Signals |
+|---|---|---|
+| **Execution Health** | Is the project operating as intended? | Milestone progress, dependency resolution, partner delivery, timeline and resource health |
+| **Resource Health** | Is a high-quality scientific resource actually becoming available and sustainable? | Data created or preserved, documentation, appropriate access, quality, discoverability, stewardship readiness |
+| **Scientific Utility & Learning** | Is the resource being used, and what are we learning from that use? | External researcher use, reuse patterns, feedback, research outputs, demonstrated utility, lessons for future investments |
+
+### Why Separate the Three?
+
+A project can be operationally healthy while the resulting resource sees limited use.
+
+A dataset can be successfully released while remaining difficult for researchers to discover, understand, access, or reuse.
+
+And meaningful scientific learning may emerge even when the original scientific hypothesis does not produce the expected result.
+
+That makes these different questions:
+
+- **Did we execute the project well?**
+- **Did we create or preserve a useful resource?**
+- **Are researchers using it and learning from it?**
+- **What does that evidence change about the next decision?**
+
+The further measurement moves from delivery toward longer-term scientific and human benefit, the harder it becomes to attribute outcomes to any single investment. The goal should therefore be to build a credible path from **execution to utility to learning**, rather than treating one downstream metric as proof of impact.
+
+> **Output is not the same as utility, and utility is not the same as long-term impact.**
